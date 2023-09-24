@@ -1,3 +1,6 @@
 [submodule "cpp-librandw"]
 	path = cpp-librandw
 	url = git@github.com:olegasivakov/rng-cpp-librandw.git
+[submodule "cpp/cpp-librandw"]
+	path = cpp/cpp-librandw
+	url = git@github.com:olegasivakov/rng-cpp-librandw.git
