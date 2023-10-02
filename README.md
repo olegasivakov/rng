@@ -1,6 +1,18 @@
 # Random number generator
 
-## Overview
+## About project
+
+### Motivation
+
+### Project description
+
+### Project importance
+
+### Issue
+
+### Competition
+
+## Technical overview
 
 ### Usecases
 
