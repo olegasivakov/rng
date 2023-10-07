@@ -22,6 +22,13 @@
 
 ### DOD
 
+- [+] cpp [librandw](https://github.com/olegasivakov/rng-cpp-librandw)
+- [ ] csharp
+- [ ] golang
+- [ ] java
+- [ ] js
+- [ ] python 
+
 ### Estimated time
 
 ### How to test
