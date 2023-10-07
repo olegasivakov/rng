@@ -22,7 +22,7 @@
 
 ### DOD
 
-- [+] cpp [librandw](https://github.com/olegasivakov/rng-cpp-librandw)
+- [x] cpp [librandw](https://github.com/olegasivakov/rng-cpp-librandw)
 - [ ] csharp
 - [ ] golang
 - [ ] java
